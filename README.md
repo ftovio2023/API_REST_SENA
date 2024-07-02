@@ -1,7 +1,5 @@
 ﻿# API_REST_SENA
 
-# API de Autenticación
-
 Esta es una API REST simple para el registro e inicio de sesión de usuarios utilizando Node.js, Express y MongoDB.
 
 ## Requisitos
@@ -16,8 +14,7 @@ Esta es una API REST simple para el registro e inicio de sesión de usuarios uti
 1. Clona el repositorio:
 
    ```sh
-   git clone <url_del_repositorio>
-   cd rest_api
+   git clone (https://github.com/ftovio2023/API_REST_SENA.git)
    ```
 
 ### Instalar las Dependencias
@@ -26,14 +23,6 @@ Esta es una API REST simple para el registro e inicio de sesión de usuarios uti
 
    ```sh
    npm install
-   ```
-
-### Configurar la Base de Datos
-
-3. Crea un archivo `.env` en la raíz del proyecto y añade tu URI de MongoDB:
-
-   ```
-   MONGO_URI=mongodb+srv://<usuario>:<contraseña>@<cluster>.mongodb.net/test?retryWrites=true&w=majority
    ```
 
 ### Poner en Marcha el Servidor
