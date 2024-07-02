@@ -1,7 +1,5 @@
 ﻿# API_REST_SENA
-Aquí tienes el README con las instrucciones en el orden que pediste:
 
-```markdown
 # API de Autenticación
 
 Esta es una API REST simple para el registro e inicio de sesión de usuarios utilizando Node.js, Express y MongoDB.
