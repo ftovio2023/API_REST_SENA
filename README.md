@@ -14,7 +14,7 @@ Esta es una API REST simple para el registro e inicio de sesión de usuarios uti
 1. Clona el repositorio:
 
    ```sh
-   git clone https://github.com/ftovio2023/API_REST_SENA.git
+   git clone https://github.com/ftovio2023/API_REST_SENA
    ```
 
 ### Instalar las Dependencias
