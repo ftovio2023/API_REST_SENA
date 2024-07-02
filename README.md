@@ -27,13 +27,20 @@ Esta es una API REST simple para el registro e inicio de sesión de usuarios uti
 
 ### Poner en Marcha el Servidor
 
-4. Inicia el servidor:
+3. Inicia el servidor:
 
    ```sh
    npm start
    ```
 
-5. El servidor estará corriendo en `http://localhost:10000`.
+4. El servidor estará corriendo en `http://localhost:10000`.
+
+### Abrir la Interfaz de Usuario
+
+1. Abrir el archivo index.html
+2. Registrar un usuario (Debe aparecer mensaje que se registro correctamente)
+3. Iniciar sesion (Debe aparecer mensaje que se inicio sesion correctamente) 
+
 
 ### Ver los Usuarios Registrados con una Petición GET en Postman
 
